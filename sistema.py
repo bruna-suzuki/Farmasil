@@ -308,11 +308,20 @@ class Remedio:
 
 
 
+    def verificar_necessidade_receita(self)
+
+
+
 
 
 
 class Caixa:
+    
+    def registrar_entrada()
 
+    def registrar_saida()
+
+    def consultar_saldo()
 
 
 
@@ -322,6 +331,23 @@ class Caixa:
 
 
 class Faturamento:
+
+    def calcular_faturamento()
+
+    def consultar_faturamento()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # f1 = Funcionario(1111, 2024, "Cindy", "24/10/2024", 15000, "caixa", "manha")
